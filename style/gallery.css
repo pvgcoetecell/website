@@ -41,7 +41,7 @@
   }
   .EDC_E{
     width: 35px;
-    height: 36px;
+    height: 30px;
     background: url("../images/v243_5.png");
     background-repeat: no-repeat;
     background-position: center center;
@@ -54,7 +54,7 @@
   }
   .EDC_D {
     width: 34px;
-    height: 36px;
+    height: 30px;
     background: url("../images/v243_6.png");
     background-repeat: no-repeat;
     background-position: center center;
@@ -66,7 +66,7 @@
     overflow: hidden;
   }
   .EDC_C {
-    width: 36px;
+    width: 30px;
     height: 39px;
     background: url("../images/v243_7.png");
     background-repeat: no-repeat;
@@ -79,7 +79,7 @@
     overflow: hidden;
   }
   .EDC_logo {
-    width: 36px;
+    width: 30px;
     height: 64px;
     background: url("../images/v243_8.png");
     background-repeat: no-repeat;
@@ -95,11 +95,11 @@
     width: 160px;
     color: rgba(255,255,255,1);
     position: absolute;
-    top: 78px;
+    top: 81px;
     left: 605px;
     font-family: Lato;
     font-weight: Medium;
-    font-size: 36px;
+    font-size: 30px;
     opacity: 1;
     text-align: center;
   }
@@ -107,11 +107,11 @@
     width: 109px;
     color: rgba(255,255,255,1);
     position: absolute;
-    top: 78px;
+    top: 81px;
     left: 891px;
     font-family: Lato;
     font-weight: Medium;
-    font-size: 36px;
+    font-size: 30px;
     opacity: 1;
     text-align: center;
   }
@@ -119,11 +119,11 @@
     width: 137px;
     color: rgba(255,255,255,1);
     position: absolute;
-    top: 77px;
-    left: 1127px;
+    top: 79px;
+    left: 1128px;
     font-family: Lato;
     font-weight: Medium;
-    font-size: 36px;
+    font-size: 30px;
     opacity: 1;
     text-align: center;
   }
@@ -131,11 +131,11 @@
     width: 184px;
     color: rgba(255,255,255,1);
     position: absolute;
-    top: 84px;
-    left: 1391px;
+    top: 81px;
+    left: 1252px;
     font-family: Lato;
     font-weight: Medium;
-    font-size: 36px;
+    font-size: 30px;
     opacity: 1;
     text-align: center;
   }
