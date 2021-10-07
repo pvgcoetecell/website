@@ -41,7 +41,7 @@
   }
   .EDC_E{
     width: 35px;
-    height: 30px;
+    height: 36px;
     background: url("../images/v243_5.png");
     background-repeat: no-repeat;
     background-position: center center;
@@ -66,7 +66,7 @@
     overflow: hidden;
   }
   .EDC_C {
-    width: 30px;
+    width: 36px;
     height: 39px;
     background: url("../images/v243_7.png");
     background-repeat: no-repeat;
@@ -79,7 +79,7 @@
     overflow: hidden;
   }
   .EDC_logo {
-    width: 30px;
+    width: 36px;
     height: 64px;
     background: url("../images/v243_8.png");
     background-repeat: no-repeat;
@@ -108,7 +108,7 @@
     color: rgba(255,255,255,1);
     position: absolute;
     top: 81px;
-    left: 891px;
+    left: 839px;
     font-family: Lato;
     font-weight: Medium;
     font-size: 30px;
@@ -120,7 +120,7 @@
     color: rgba(255,255,255,1);
     position: absolute;
     top: 79px;
-    left: 1128px;
+    left: 1027px;
     font-family: Lato;
     font-weight: Medium;
     font-size: 30px;
@@ -132,7 +132,7 @@
     color: rgba(255,255,255,1);
     position: absolute;
     top: 81px;
-    left: 1252px;
+    left: 1225px;
     font-family: Lato;
     font-weight: Medium;
     font-size: 30px;
@@ -141,24 +141,24 @@
   }
   .Heading {
     width: 100%;
-    color: url("../images/v243_17.png");
+    color: white;
     position: absolute;
     top: 294px;
-    left: 363px;
     font-family: Lato;
     font-weight: Medium;
     font-size: 48px;
     opacity: 1;
     text-align: center;
+    text-underline-position: under;
   }
   .row1_A {
-    width: 465px;
-    height: 405px;
+    width: 392px;
+    height: 330px;
     background: rgba(196,196,196,1);
     opacity: 1;
     position: absolute;
     top: 583px;
-    left: 78px;
+    left: 77px;
     border: 1px solid rgba(0,0,0,1);
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
@@ -168,13 +168,13 @@
     overflow: hidden;
   }
   .row1_B {
-    width: 465px;
-    height: 405px;
+    width: 392px;
+    height: 330px;
     background: rgba(196,196,196,1);
     opacity: 1;
     position: absolute;
     top: 583px;
-    left: 656px;
+    left: 569px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
@@ -182,13 +182,13 @@
     overflow: hidden;
   }
   .row1_C {
-    width: 465px;
-    height: 405px;
+    width: 392px;
+    height: 330px;
     background: rgba(196,196,196,1);
     opacity: 1;
     position: absolute;
     top: 583px;
-    left: 1234px;
+    left: 1047px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
@@ -196,13 +196,13 @@
     overflow: hidden;
   }
   .row2_A {
-    width: 465px;
-    height: 405px;
+    width: 392px;
+    height: 330px;
     background: rgba(196,196,196,1);
     opacity: 1;
     position: absolute;
     top: 1108px;
-    left: 81px;
+    left: 77px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
@@ -210,13 +210,13 @@
     overflow: hidden;
   }
   .row2_B {
-    width: 465px;
-    height: 405px;
+    width: 392px;
+    height: 330px;
     background: rgba(196,196,196,1);
     opacity: 1;
     position: absolute;
     top: 1109px;
-    left: 656px;
+    left: 569px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
@@ -224,13 +224,13 @@
     overflow: hidden;
   }
   .row2_C {
-    width: 465px;
-    height: 405px;
+    width: 392px;
+    height: 330px;
     background: rgba(196,196,196,1);
     opacity: 1;
     position: absolute;
     top: 1109px;
-    left: 1234px;
+    left: 1047px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
@@ -238,13 +238,13 @@
     overflow: hidden;
   }
   .row3_A {
-    width: 465px;
-    height: 405px;
+    width: 392px;
+    height: 330px;
     background: rgba(196,196,196,1);
     opacity: 1;
     position: absolute;
     top: 1658px;
-    left: 78px;
+    left: 77px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
@@ -252,13 +252,13 @@
     overflow: hidden;
   }
   .row3_B {
-    width: 465px;
-    height: 405px;
+    width: 392px;
+    height: 330px;
     background: rgba(196,196,196,1);
     opacity: 1;
     position: absolute;
     top: 1658px;
-    left: 656px;
+    left: 569px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
@@ -266,13 +266,13 @@
     overflow: hidden;
   }
   .row3_C {
-    width: 465px;
-    height: 405px;
+    width: 392px;
+    height: 330px;
     background: rgba(196,196,196,1);
     opacity: 1;
     position: absolute;
     top: 1658px;
-    left: 1234px;
+    left: 1047px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
@@ -280,13 +280,13 @@
     overflow: hidden;
   }
   .row4_A {
-    width: 465px;
-    height: 405px;
+    width: 392px;
+    height: 330px;
     background: rgba(196,196,196,1);
     opacity: 1;
     position: absolute;
     top: 2184px;
-    left: 78px;
+    left: 77px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
@@ -294,13 +294,13 @@
     overflow: hidden;
   }
   .row4_B {
-    width: 465px;
-    height: 405px;
+    width: 392px;
+    height: 330px;
     background: rgba(196,196,196,1);
     opacity: 1;
     position: absolute;
     top: 2184px;
-    left: 656px;
+    left: 569px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
@@ -308,13 +308,13 @@
     overflow: hidden;
   }
   .row4_C {
-    width: 465px;
-    height: 405px;
+    width: 392px;
+    height: 330px;
     background: rgba(196,196,196,1);
     opacity: 1;
     position: absolute;
     top: 2184px;
-    left: 1234px;
+    left: 1047px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
@@ -322,13 +322,13 @@
     overflow: hidden;
   }
   .row5_A {
-    width: 465px;
-    height: 405px;
+    width: 392px;
+    height: 330px;
     background: rgba(196,196,196,1);
     opacity: 1;
     position: absolute;
     top: 2710px;
-    left: 78px;
+    left: 77px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
@@ -336,13 +336,13 @@
     overflow: hidden;
   }
   .row5_B {
-    width: 465px;
-    height: 405px;
+    width: 392px;
+    height: 330px;
     background: rgba(196,196,196,1);
     opacity: 1;
     position: absolute;
     top: 2710px;
-    left: 656px;
+    left: 569px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
@@ -350,13 +350,13 @@
     overflow: hidden;
   }
   .row5_C {
-    width: 465px;
-    height: 405px;
+    width: 392px;
+    height: 330px;
     background: rgba(196,196,196,1);
     opacity: 1;
     position: absolute;
     top: 2710px;
-    left: 1234px;
+    left: 1047px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
