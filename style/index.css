@@ -13,6 +13,8 @@
     top: -9px;
     left: -7px;
     overflow: hidden;
+    justify-content: center;
+    display: flex;
   }
   .sp3 {
     width: 185px;
@@ -2095,4 +2097,4 @@
     top: 563px;
     left: 578px;
   }
-  
+ 
