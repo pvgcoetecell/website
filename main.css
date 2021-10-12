@@ -1,0 +1,930 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 14px;
+}
+
+.mainbody {
+    width: 100%;
+    height: 5726px;
+    background: rgba(0, 8, 20, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.generalsecretarybox {
+    width: 918px;
+    height: 506px;
+    background: linear-gradient(rgba(134, 165, 211, 0.4000000059604645), rgba(134, 165, 211, 0.10000000149011612));
+    opacity: 1;
+    position: absolute;
+    top: 570px;
+    left: 261px;
+    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    overflow: hidden;
+}
+
+.jointgeneralsecretarybox {
+    width: 918px;
+    height: 506px;
+    background: linear-gradient(rgba(134, 165, 211, 0.4000000059604645), rgba(134, 165, 211, 0.10000000149011612));
+    opacity: 1;
+    position: absolute;
+    top: 1354px;
+    left: 480px;
+    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    overflow: hidden;
+}
+
+.treasurerbox {
+    width: 918px;
+    height: 506px;
+    background: linear-gradient(rgba(134, 165, 211, 0.4000000059604645), rgba(134, 165, 211, 0.10000000149011612));
+    opacity: 1;
+    position: absolute;
+    top: 2040px;
+    left: 47px;
+    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    overflow: hidden;
+}
+
+.Navbar {
+    width: 100%;
+    height: 56px;
+    background: url("../images/v180_2.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 48px;
+    left: 83px;
+    overflow: hidden;
+}
+
+.teambutton {
+    width: 115px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 8px;
+    left: 935px;
+    font-family: Advent Pro;
+    font-weight: Medium;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+}
+
+.blogbutton {
+    width: 115px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 8px;
+    left: 796px;
+    font-family: Advent Pro;
+    font-weight: Medium;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+}
+
+.contactbutton {
+    width: 160px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 8px;
+    left: 1074px;
+    font-family: Advent Pro;
+    font-weight: Medium;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+}
+
+.eventsbutton {
+    width: 115px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 8px;
+    left: 657px;
+    font-family: Advent Pro;
+    font-weight: Medium;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+}
+
+.homebutton {
+    width: 115px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 8px;
+    left: 518px;
+    font-family: Advent Pro;
+    font-weight: Medium;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+}
+
+.logo {
+    width: 100px;
+    height: 50px;
+    background: url("../images/v180_8.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 6px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.logo1 {
+    width: 100px;
+    height: 50px;
+    background: url("../images/v180_9.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.logoe {
+    width: 27px;
+    height: 28px;
+    background: url("../images/v180_10.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 10px;
+    left: 28px;
+    overflow: hidden;
+}
+
+.logod {
+    width: 26px;
+    height: 28px;
+    background: url("../images/v180_11.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 10px;
+    left: 45px;
+    overflow: hidden;
+}
+
+.logoc {
+    width: 28px;
+    height: 30px;
+    background: url("../images/v180_12.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 9px;
+    left: 71px;
+    overflow: hidden;
+}
+
+.logoimg {
+    width: 28px;
+    height: 50px;
+    background: url("../images/v180_13.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.core {
+    width: 758px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 280px;
+    left: 341px;
+    font-family: Tenali Ramakrishna;
+    font-weight: Regular;
+    font-size: 130px;
+    opacity: 1;
+    text-align: left;
+}
+
+.GS {
+    width: 730px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 1070px;
+    left: 355px;
+    font-family: Changa;
+    font-weight: Regular;
+    font-size: 90px;
+    opacity: 1;
+    text-align: center;
+}
+
+.JGS {
+    width: 507px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 1472px;
+    left: 18px;
+    font-family: Changa;
+    font-weight: Regular;
+    font-size: 75px;
+    opacity: 1;
+    text-align: center;
+}
+
+.Treasurer {
+    width: 599px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 2228px;
+    left: 879px;
+    font-family: Changa;
+    font-weight: Regular;
+    font-size: 75px;
+    opacity: 1;
+    text-align: center;
+}
+
+.nechead2box {
+    width: 1200px;
+    height: 506px;
+    background: linear-gradient(rgba(134, 165, 211, 0.4000000059604645), rgba(134, 165, 211, 0.10000000149011612));
+    opacity: 1;
+    position: absolute;
+    top: 4198px;
+    left: 130px;
+    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.nechead1box {
+    width: 1200px;
+    height: 506px;
+    background: linear-gradient(rgba(134, 165, 211, 0.4000000059604645), rgba(134, 165, 211, 0.10000000149011612));
+    opacity: 1;
+    position: absolute;
+    top: 3574px;
+    left: 130px;
+    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    overflow: hidden;
+}
+
+.nechead {
+    width: 399px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 3284px;
+    left: 521px;
+    font-family: Changa;
+    font-weight: Regular;
+    font-size: 85px;
+    opacity: 1;
+    text-align: center;
+}
+
+.GSphoto {
+    width: 332px;
+    height: 386px;
+    background: url("../images/v312_74.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 624px;
+    left: 280px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+}
+
+.GSname {
+    width: 478px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 626px;
+    left: 652px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 60px;
+    opacity: 1;
+    text-align: left;
+}
+
+.aboutGS {
+    width: 445px;
+    color: rgba(119, 118, 118, 1);
+    position: absolute;
+    top: 755px;
+    left: 667px;
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 35px;
+    opacity: 1;
+    text-align: left;
+}
+
+.GSlinkedin {
+    width: 37px;
+    height: 41px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 994px;
+    left: 902px;
+}
+
+.JGSphoto {
+    width: 332px;
+    height: 381px;
+    background: url("../images/v310_12.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1416px;
+    left: 526px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+}
+
+.bigbox {
+    width: 100%;
+    height: 1440px;
+    background: url("../images/v336_2.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2606px;
+    left: 12px;
+    overflow: hidden;
+}
+
+.tsshbox {
+    width: 918px;
+    height: 506px;
+    background: linear-gradient(rgba(134, 165, 211, 0.4000000059604645), rgba(134, 165, 211, 0.10000000149011612));
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 472px;
+    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    overflow: hidden;
+}
+
+.tsshphoto {
+    width: 332px;
+    height: 386px;
+    background: url("../images/v310_15.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 39px;
+    left: 494px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+}
+
+.abouttssh {
+    width: 445px;
+    color: rgba(119, 118, 118, 1);
+    position: absolute;
+    top: 162px;
+    left: 919px;
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 35px;
+    opacity: 1;
+    text-align: left;
+}
+
+.nechead1linkedin {
+    width: 37px;
+    height: 41px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1399px;
+    left: 1016px;
+}
+
+.tsshname {
+    width: 520px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 45px;
+    left: 844px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 58px;
+    opacity: 1;
+    text-align: left;
+}
+
+.tssh {
+    width: 462px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 89px;
+    left: 0px;
+    font-family: Changa;
+    font-weight: Regular;
+    font-size: 60px;
+    opacity: 1;
+    text-align: center;
+}
+
+.nechead1git {
+    width: 32px;
+    height: 33px;
+    background: url("../images/v497_9.png");
+    opacity: 1;
+    position: absolute;
+    top: 1399px;
+    left: 928px;
+    border: 2px solid rgba(255, 255, 255, 1);
+}
+
+.nechead1photo {
+    width: 332px;
+    height: 386px;
+    background: linear-gradient(rgba(0, 0, 0, 1), rgba(255, 255, 255, 0));
+    opacity: 1;
+    position: absolute;
+    top: 3636px;
+    left: 193px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+}
+
+.JGSname {
+    width: 475px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 1401px;
+    left: 895px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 60px;
+    opacity: 1;
+    text-align: left;
+}
+
+.aboutJGS {
+    width: 445px;
+    color: rgba(119, 118, 118, 1);
+    position: absolute;
+    top: 1518px;
+    left: 915px;
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 35px;
+    opacity: 1;
+    text-align: left;
+}
+
+.JGSlinkedin {
+    width: 37px;
+    height: 41px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1771px;
+    left: 1179px;
+}
+
+.Treasurername {
+    width: 376px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 2074px;
+    left: 470px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 60px;
+    opacity: 1;
+    text-align: left;
+}
+
+.aboutTreasurer {
+    width: 445px;
+    color: rgba(119, 118, 118, 1);
+    position: absolute;
+    top: 2170px;
+    left: 473px;
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 35px;
+    opacity: 1;
+    text-align: left;
+}
+
+.Treasurerphoto {
+    width: 332px;
+    height: 386px;
+    background: url("../images/v310_17.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2080px;
+    left: 80px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+}
+
+.tsshlinkedin {
+    width: 37px;
+    height: 41px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 3039px;
+    left: 1153px;
+}
+
+.nechead1name {
+    width: 418px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 3633px;
+    left: 735px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 60px;
+    opacity: 1;
+    text-align: left;
+}
+
+.aboutnechead1 {
+    width: 445px;
+    color: rgba(119, 118, 118, 1);
+    position: absolute;
+    top: 3744px;
+    left: 726px;
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 35px;
+    opacity: 1;
+    text-align: left;
+}
+
+.nechead2linkedin {
+    width: 37px;
+    height: 41px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 4631px;
+    left: 1022px;
+}
+
+.nechead2name {
+    width: 377px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 4249px;
+    left: 780px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 60px;
+    opacity: 1;
+    text-align: left;
+}
+
+.aboutnechead2 {
+    width: 445px;
+    color: rgba(119, 118, 118, 1);
+    position: absolute;
+    top: 4378px;
+    left: 759px;
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 35px;
+    opacity: 1;
+    text-align: left;
+}
+
+.NHbox {
+    width: 1200px;
+    height: 506px;
+    background: linear-gradient(rgba(134, 165, 211, 0.4000000059604645), rgba(134, 165, 211, 0.10000000149011612));
+    opacity: 1;
+    position: absolute;
+    top: 4990px;
+    left: 130px;
+    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    overflow: hidden;
+}
+
+.NHname {
+    width: 577px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 5029px;
+    left: 648px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 60px;
+    opacity: 1;
+    text-align: left;
+}
+
+.NHphoto {
+    width: 332px;
+    height: 386px;
+    background: linear-gradient(rgba(0, 0, 0, 1), rgba(255, 255, 255, 0));
+    opacity: 1;
+    position: absolute;
+    top: 5034px;
+    left: 193px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+}
+
+.aboutNH {
+    width: 445px;
+    color: rgba(119, 118, 118, 1);
+    position: absolute;
+    top: 5135px;
+    left: 714px;
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 35px;
+    opacity: 1;
+    text-align: left;
+}
+
+.NH {
+    width: 100%;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 4790px;
+    font-family: Changa;
+    font-weight: Regular;
+    font-size: 85px;
+    opacity: 1;
+    text-align: center;
+}
+
+.nechead2photobox {
+    width: 316px;
+    height: 369px;
+    background: url("../images/v336_11.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 4284px;
+    left: 214px;
+    overflow: hidden;
+}
+
+.nechead2photo {
+    width: 307px;
+    height: 336px;
+    background: url("../images/v336_10.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 17px;
+    left: 4px;
+    overflow: hidden;
+}
+
+.tsshgit {
+    width: 32px;
+    height: 33px;
+    background: url("../images/v364_125.png");
+    opacity: 1;
+    position: absolute;
+    top: 3046px;
+    left: 1084px;
+    border: 2px solid rgba(255, 255, 255, 1);
+}
+
+.nechead2git {
+    width: 32px;
+    height: 33px;
+    background: url("../images/v497_10.png");
+    opacity: 1;
+    position: absolute;
+    top: 4638px;
+    left: 932px;
+    border: 2px solid rgba(255, 255, 255, 1);
+}
+
+.GSgit {
+    width: 32px;
+    height: 33px;
+    background: url("../images/v497_13.png");
+    opacity: 1;
+    position: absolute;
+    top: 998px;
+    left: 827px;
+    border: 2px solid rgba(255, 255, 255, 1);
+}
+
+.JGSgit {
+    width: 32px;
+    height: 33px;
+    background: url("../images/v497_19.png");
+    opacity: 1;
+    position: absolute;
+    top: 1778px;
+    left: 1100px;
+    border: 2px solid rgba(255, 255, 255, 1);
+}
+
+.NHgit {
+    width: 32px;
+    height: 33px;
+    background: url("../images/v497_11.png");
+    opacity: 1;
+    position: absolute;
+    top: 5406px;
+    left: 937px;
+    border: 2px solid rgba(255, 255, 255, 1);
+}
+
+.NHlinkedin {
+    width: 37px;
+    height: 41px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 5399px;
+    left: 1040px;
+}
+
+.Treasurergit {
+    width: 32px;
+    height: 33px;
+    background: url("../images/v548_2.png");
+    opacity: 1;
+    position: absolute;
+    top: 2449px;
+    left: 615px;
+    border: 2px solid rgba(255, 255, 255, 1);
+}
+
+.Treasurerlinkedin {
+    width: 37px;
+    height: 41px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 2442px;
+    left: 701px;
+}
+
+#jgspic {
+    width: 332px;
+    height: 410px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    top: 1416px;
+    left: 526px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+}
+
+#treasurerpic {
+    width: 332px;
+    height: 410px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    top: 1416px;
+    left: 526px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+}
+
+#tsshpic {
+    width: 332px;
+    height: 410px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    top: 1416px;
+    left: 526px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+}
+
+#nechead1pic {
+    width: 332px;
+    height: 410px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    top: 1416px;
+    left: 526px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+}
+
+#nechead2pic {
+    width: 332px;
+    height: 410px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    top: 1416px;
+    left: 526px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+}
