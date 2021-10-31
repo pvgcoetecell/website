@@ -1,578 +1,608 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-    font-size: 14px;
+  font-size: 14px;
 }
 
 .mainbox {
-    width: 100%;
-    height: 3036px;
-    background: rgba(0, 8, 20, 1);
-    opacity: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    overflow: hidden;
+  width: 100%;
+  height: 3036px;
+  background: rgba(0, 8, 20, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  z-index: 1;
+  left: 0px;
+  overflow: hidden;
 }
 
 .SPbox {
-    width: 418px;
-    height: 465px;
-    background: linear-gradient(rgba(134, 165, 211, 0.4000000059604645), rgba(134, 165, 211, 0.10000000149011612));
-    opacity: 1;
-    position: absolute;
-    top: 1256px;
-    left: 1005px;
-    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
-    border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
-    overflow: hidden;
+  width: 418px;
+  height: 465px;
+  background: linear-gradient(
+    rgba(134, 165, 211, 0.4000000059604645),
+    rgba(134, 165, 211, 0.10000000149011612)
+  );
+  opacity: 1;
+  position: absolute;
+  top: 1256px;
+  left: 1005px;
+  border: 1px solid
+    linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
 }
 
 .AJbox {
-    width: 418px;
-    height: 465px;
-    background: linear-gradient(rgba(134, 165, 211, 0.4000000059604645), rgba(134, 165, 211, 0.10000000149011612));
-    opacity: 1;
-    position: absolute;
-    top: 1814px;
-    left: 791px;
-    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
-    border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
-    overflow: hidden;
+  width: 418px;
+  height: 465px;
+  background: linear-gradient(
+    rgba(134, 165, 211, 0.4000000059604645),
+    rgba(134, 165, 211, 0.10000000149011612)
+  );
+  opacity: 1;
+  position: absolute;
+  top: 1814px;
+  left: 791px;
+  border: 1px solid
+    linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
 }
 
 .TMbox {
-    width: 418px;
-    height: 465px;
-    background: linear-gradient(rgba(134, 165, 211, 0.4000000059604645), rgba(134, 165, 211, 0.10000000149011612));
-    opacity: 1;
-    position: absolute;
-    top: 1814px;
-    left: 295px;
-    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
-    border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
-    overflow: hidden;
+  width: 418px;
+  height: 465px;
+  background: linear-gradient(
+    rgba(134, 165, 211, 0.4000000059604645),
+    rgba(134, 165, 211, 0.10000000149011612)
+  );
+  opacity: 1;
+  position: absolute;
+  top: 1814px;
+  left: 295px;
+  border: 1px solid
+    linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
 }
 
 .MKbox {
-    width: 418px;
-    height: 465px;
-    background: linear-gradient(rgba(134, 165, 211, 0.4000000059604645), rgba(134, 165, 211, 0.10000000149011612));
-    opacity: 1;
-    position: absolute;
-    top: 1256px;
-    left: 541px;
-    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
-    border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
-    overflow: hidden;
+  width: 418px;
+  height: 465px;
+  background: linear-gradient(
+    rgba(134, 165, 211, 0.4000000059604645),
+    rgba(134, 165, 211, 0.10000000149011612)
+  );
+  opacity: 1;
+  position: absolute;
+  top: 1256px;
+  left: 541px;
+  border: 1px solid
+    linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
 }
 
 .RTbox {
-    width: 418px;
-    height: 465px;
-    background: linear-gradient(rgba(134, 165, 211, 0.4000000059604645), rgba(134, 165, 211, 0.10000000149011612));
-    opacity: 1;
-    position: absolute;
-    top: 1259px;
-    left: 75px;
-    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
-    border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
-    overflow: hidden;
+  width: 418px;
+  height: 465px;
+  background: linear-gradient(
+    rgba(134, 165, 211, 0.4000000059604645),
+    rgba(134, 165, 211, 0.10000000149011612)
+  );
+  opacity: 1;
+  position: absolute;
+  top: 1259px;
+  left: 75px;
+  border: 1px solid
+    linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
 }
 
 .Ritinbox {
-    width: 1150px;
-    height: 605px;
-    background: linear-gradient(rgba(134, 165, 211, 0.4000000059604645), rgba(134, 165, 211, 0.10000000149011612));
-    opacity: 1;
-    position: absolute;
-    top: 377px;
-    left: 182px;
-    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
-    border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
-    overflow: hidden;
+  width: 1150px;
+  height: 605px;
+  background: linear-gradient(
+    rgba(134, 165, 211, 0.4000000059604645),
+    rgba(134, 165, 211, 0.10000000149011612)
+  );
+  opacity: 1;
+  position: absolute;
+  top: 377px;
+  left: 182px;
+  border: 1px solid
+    linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
 }
 
 .navbar {
-    width: 100%;
-    height: 101px;
-    background: rgba(0, 8, 20, 1);
-    opacity: 1;
-    position: absolute;
-    top: 16px;
-    left: 0px;
-    overflow: hidden;
+  width: 100%;
+  height: 101px;
+  background: rgba(0, 8, 20, 1);
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  left: 0px;
+  overflow: hidden;
 }
 
 .nav2 {
-    width: 100%;
-    height: 56px;
-    background: url("../images/v309_44.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 39px;
-    left: 57px;
-    overflow: hidden;
+  width: 100%;
+  height: 56px;
+  background: url("../images/v309_44.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 39px;
+  left: 57px;
+  overflow: hidden;
 }
 
 .Team {
-    width: 115px;
-    color: rgba(255, 255, 255, 1);
-    position: absolute;
-    top: 8px;
-    left: 935px;
-    font-family: Advent Pro;
-    font-weight: Medium;
-    font-size: 36px;
-    opacity: 1;
-    text-align: center;
+  width: 115px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 8px;
+  left: 935px;
+  font-family: Advent Pro;
+  font-weight: Medium;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
 }
 
 .Blogs {
-    width: 115px;
-    color: rgba(255, 255, 255, 1);
-    position: absolute;
-    top: 8px;
-    left: 796px;
-    font-family: Advent Pro;
-    font-weight: Medium;
-    font-size: 36px;
-    opacity: 1;
-    text-align: center;
+  width: 115px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 8px;
+  left: 796px;
+  font-family: Advent Pro;
+  font-weight: Medium;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
 }
 
 .Contact {
-    width: 160px;
-    color: rgba(255, 255, 255, 1);
-    position: absolute;
-    top: 8px;
-    left: 1074px;
-    font-family: Advent Pro;
-    font-weight: Medium;
-    font-size: 36px;
-    opacity: 1;
-    text-align: center;
+  width: 160px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 8px;
+  left: 1074px;
+  font-family: Advent Pro;
+  font-weight: Medium;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
 }
 
 .Events {
-    width: 115px;
-    color: rgba(255, 255, 255, 1);
-    position: absolute;
-    top: 8px;
-    left: 657px;
-    font-family: Advent Pro;
-    font-weight: Medium;
-    font-size: 36px;
-    opacity: 1;
-    text-align: center;
+  width: 115px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 8px;
+  left: 657px;
+  font-family: Advent Pro;
+  font-weight: Medium;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
 }
 
 .Home {
-    width: 115px;
-    color: rgba(255, 255, 255, 1);
-    position: absolute;
-    top: 8px;
-    left: 518px;
-    font-family: Advent Pro;
-    font-weight: Medium;
-    font-size: 36px;
-    opacity: 1;
-    text-align: center;
+  width: 115px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 8px;
+  left: 518px;
+  font-family: Advent Pro;
+  font-weight: Medium;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
 }
 
 .edclogo {
-    width: 100px;
-    height: 50px;
-    background: url("../images/v309_50.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 6px;
-    left: 0px;
-    overflow: hidden;
+  width: 100px;
+  height: 50px;
+  background: url("../images/v309_50.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  left: 0px;
+  overflow: hidden;
 }
 
 .logobox {
-    width: 100px;
-    height: 50px;
-    background: url("../images/v309_51.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    overflow: hidden;
+  width: 100px;
+  height: 50px;
+  background: url("../images/v309_51.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
 }
 
 .E {
-    width: 27px;
-    height: 28px;
-    background: url("../images/v309_52.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 10px;
-    left: 28px;
-    overflow: hidden;
+  width: 27px;
+  height: 28px;
+  background: url("../images/v309_52.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  left: 28px;
+  overflow: hidden;
 }
 
 .D {
-    width: 26px;
-    height: 28px;
-    background: url("../images/v309_53.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 10px;
-    left: 45px;
-    overflow: hidden;
+  width: 26px;
+  height: 28px;
+  background: url("../images/v309_53.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  left: 45px;
+  overflow: hidden;
 }
 
 .C {
-    width: 28px;
-    height: 30px;
-    background: url("../images/v309_54.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 9px;
-    left: 71px;
-    overflow: hidden;
+  width: 28px;
+  height: 30px;
+  background: url("../images/v309_54.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  left: 71px;
+  overflow: hidden;
 }
 
 .man {
-    width: 28px;
-    height: 50px;
-    background: url("../images/v309_55.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    overflow: hidden;
+  width: 28px;
+  height: 50px;
+  background: url("../images/v309_55.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
 }
 
 .doclead {
-    width: 669px;
-    color: rgba(255, 255, 255, 1);
-    position: absolute;
-    top: 449px;
-    left: 601px;
-    font-family: Lato;
-    font-weight: Medium;
-    font-size: 70px;
-    opacity: 1;
-    text-align: center;
+  width: 669px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 449px;
+  left: 601px;
+  font-family: Lato;
+  font-weight: Medium;
+  font-size: 70px;
+  opacity: 1;
+  text-align: center;
 }
 
 .members {
-    width: 692px;
-    color: rgba(255, 255, 255, 1);
-    position: absolute;
-    top: 1126px;
-    left: 377px;
-    font-family: Lato;
-    font-weight: Medium;
-    font-size: 50px;
-    opacity: 1;
-    text-align: center;
+  width: 692px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 1126px;
+  left: 377px;
+  font-family: Lato;
+  font-weight: Medium;
+  font-size: 50px;
+  opacity: 1;
+  text-align: center;
 }
 
 .rajaseepic {
-    width: 249px;
-    height: 249px;
-    background: url("../images/v309_58.png");
-    border-radius: 50%;
-    clip-path: circle();
-    opacity: 1;
-    position: absolute;
-    image-orientation: from-image;
-    top: 1284px;
-    left: 151px;
-    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+  width: 249px;
+  height: 249px;
+  background: url("../images/v309_58.png");
+  border-radius: 50%;
+  clip-path: circle();
+  opacity: 1;
+  position: absolute;
+  image-orientation: from-image;
+  top: 1284px;
+  left: 151px;
+  border: 1px solid
+    linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
 }
 
 .mrunalpic {
-    width: 250px;
-    height: 250px;
-    background: url("../images/v309_59.png");
-    clip-path: circle();
-    background-color: black;
-    opacity: 1;
-    position: absolute;
-    top: 1284px;
-    left: 620px;
-    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+  width: 250px;
+  height: 250px;
+  background: url("../images/v309_59.png");
+  clip-path: circle();
+  background-color: black;
+  opacity: 1;
+  position: absolute;
+  top: 1284px;
+  left: 620px;
+  border: 1px solid
+    linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
 }
 
 .samrudhipic {
-    width: 250px;
-    height: 250px;
-    background: url("../images/v309_60.png");
-    clip-path: circle();
-    background-color: black;
-    opacity: 1;
-    position: absolute;
-    top: 1284px;
-    left: 1090px;
-    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+  width: 250px;
+  height: 250px;
+  background: url("../images/v309_60.png");
+  clip-path: circle();
+  background-color: black;
+  opacity: 1;
+  position: absolute;
+  top: 1284px;
+  left: 1090px;
+  border: 1px solid
+    linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
 }
 
 .tanvipic {
-    width: 250px;
-    height: 250px;
-    background: url("../images/v309_61.png");
-    clip-path: circle();
-    background-color: black;
-    opacity: 1;
-    position: absolute;
-    top: 1847px;
-    left: 378px;
-    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+  width: 250px;
+  height: 250px;
+  background: url("../images/v309_61.png");
+  clip-path: circle();
+  background-color: black;
+  opacity: 1;
+  position: absolute;
+  top: 1847px;
+  left: 378px;
+  border: 1px solid
+    linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
 }
 
 .ritinpic {
-    width: 332px;
-    height: 386px;
-    background: url("../images/v309_62.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 485px;
-    left: 244px;
-    border-top-left-radius: 50px;
-    border-top-right-radius: 50px;
-    border-bottom-left-radius: 50px;
-    border-bottom-right-radius: 50px;
-    overflow: hidden;
+  width: 332px;
+  height: 386px;
+  background: url("../images/v309_62.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 485px;
+  left: 244px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  overflow: hidden;
 }
 
 .docteam {
-    width: 100%;
-    color: rgba(255, 255, 255, 1);
-    position: absolute;
-    top: 172px;
-    left: 254px;
-    font-family: Changa;
-    font-weight: Regular;
-    font-size: 110px;
-    opacity: 1;
-    text-align: left;
+  width: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 172px;
+  left: 254px;
+  font-family: Changa;
+  font-weight: Regular;
+  font-size: 110px;
+  opacity: 1;
+  text-align: left;
 }
 
 .ritininfo {
-    width: 445px;
-    color: rgba(119, 118, 118, 1);
-    position: absolute;
-    top: 655px;
-    left: 684px;
-    font-family: Roboto;
-    font-weight: Regular;
-    font-size: 35px;
-    opacity: 1;
-    text-align: left;
+  width: 445px;
+  color: rgba(119, 118, 118, 1);
+  position: absolute;
+  top: 655px;
+  left: 684px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
 }
 
 .anushkapic {
-    width: 250px;
-    height: 250px;
-    background: url("../images/v309_69.png");
-    clip-path: circle();
-    opacity: 1;
-    position: absolute;
-    top: 1847px;
-    left: 883px;
-    border: 1px solid linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
+  width: 250px;
+  height: 250px;
+  background: url("../images/v309_69.png");
+  clip-path: circle();
+  opacity: 1;
+  position: absolute;
+  top: 1847px;
+  left: 883px;
+  border: 1px solid
+    linear-gradient(rgba(135, 166, 211, 1), rgba(161, 220, 187, 1));
 }
 
 .ritinlinkedin {
-    width: 44px;
-    height: 44px;
-    background: rgba(255, 255, 255, 1);
-    opacity: 1;
-    position: absolute;
-    top: 891px;
-    left: 963px;
-    overflow: hidden;
+  width: 44px;
+  height: 44px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 891px;
+  left: 963px;
+  overflow: hidden;
 }
 
 .rajaseename {
-    width: 299px;
-    color: rgba(255, 255, 255, 1);
-    position: absolute;
-    top: 1570px;
-    left: 133px;
-    font-family: Roboto;
-    font-weight: Bold;
-    font-size: 43px;
-    opacity: 1;
-    text-align: left;
+  width: 299px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 1570px;
+  left: 133px;
+  font-family: Roboto;
+  font-weight: Bold;
+  font-size: 43px;
+  opacity: 1;
+  text-align: left;
 }
 
 .ritinname {
-    width: 269px;
-    color: rgba(255, 255, 255, 1);
-    position: absolute;
-    top: 570px;
-    left: 736px;
-    font-family: Roboto;
-    font-weight: Bold;
-    font-size: 43px;
-    opacity: 1;
-    text-align: left;
+  width: 269px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 570px;
+  left: 736px;
+  font-family: Roboto;
+  font-weight: Bold;
+  font-size: 43px;
+  opacity: 1;
+  text-align: left;
 }
 
 .mrunalname {
-    width: 307px;
-    color: rgba(255, 255, 255, 1);
-    position: absolute;
-    top: 1570px;
-    left: 593px;
-    font-family: Roboto;
-    font-weight: Bold;
-    font-size: 43px;
-    opacity: 1;
-    text-align: left;
+  width: 307px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 1570px;
+  left: 593px;
+  font-family: Roboto;
+  font-weight: Bold;
+  font-size: 43px;
+  opacity: 1;
+  text-align: left;
 }
 
 .rajaseelinkedin {
-    width: 44px;
-    height: 44px;
-    background: rgba(255, 255, 255, 1);
-    opacity: 1;
-    position: absolute;
-    top: 1656px;
-    left: 255px;
-    overflow: hidden;
+  width: 44px;
+  height: 44px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 1656px;
+  left: 255px;
+  overflow: hidden;
 }
 
 .mrunallinkedin {
-    width: 44px;
-    height: 44px;
-    background: rgba(255, 255, 255, 1);
-    opacity: 1;
-    position: absolute;
-    top: 1656px;
-    left: 725px;
-    overflow: hidden;
+  width: 44px;
+  height: 44px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 1656px;
+  left: 725px;
+  overflow: hidden;
 }
 
 .samrudhilinkedin {
-    width: 44px;
-    height: 44px;
-    background: rgba(255, 255, 255, 1);
-    opacity: 1;
-    position: absolute;
-    top: 1656px;
-    left: 1190px;
-    overflow: hidden;
+  width: 44px;
+  height: 44px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 1656px;
+  left: 1190px;
+  overflow: hidden;
 }
 
 .tanvilinkedin {
-    width: 44px;
-    height: 44px;
-    background: rgba(255, 255, 255, 1);
-    opacity: 1;
-    position: absolute;
-    top: 2208px;
-    left: 480px;
-    overflow: hidden;
+  width: 44px;
+  height: 44px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 2208px;
+  left: 480px;
+  overflow: hidden;
 }
 
 .anushkalinkedin {
-    width: 44px;
-    height: 44px;
-    background: rgba(255, 255, 255, 1);
-    opacity: 1;
-    position: absolute;
-    top: 2208px;
-    left: 983px;
-    overflow: hidden;
+  width: 44px;
+  height: 44px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 2208px;
+  left: 983px;
+  overflow: hidden;
 }
 
 .anushkaname {
-    width: 262px;
-    color: rgba(255, 255, 255, 1);
-    position: absolute;
-    top: 2111px;
-    left: 879px;
-    font-family: Roboto;
-    font-weight: Bold;
-    font-size: 43px;
-    opacity: 1;
-    text-align: left;
+  width: 262px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 2111px;
+  left: 879px;
+  font-family: Roboto;
+  font-weight: Bold;
+  font-size: 43px;
+  opacity: 1;
+  text-align: left;
 }
 
 .tanviname {
-    width: 280px;
-    color: rgba(255, 255, 255, 1);
-    position: absolute;
-    top: 2111px;
-    left: 370px;
-    font-family: Roboto;
-    font-weight: Bold;
-    font-size: 43px;
-    opacity: 1;
-    text-align: left;
+  width: 280px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 2111px;
+  left: 370px;
+  font-family: Roboto;
+  font-weight: Bold;
+  font-size: 43px;
+  opacity: 1;
+  text-align: left;
 }
 
 .samrudhiname {
-    width: 318px;
-    color: rgba(255, 255, 255, 1);
-    position: absolute;
-    top: 1570px;
-    left: 1065px;
-    font-family: Roboto;
-    font-weight: Bold;
-    font-size: 43px;
-    opacity: 1;
-    text-align: left;
+  width: 318px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 1570px;
+  left: 1065px;
+  font-family: Roboto;
+  font-weight: Bold;
+  font-size: 43px;
+  opacity: 1;
+  text-align: left;
 }
 
 .ritingit {
-    width: 45px;
-    height: 45px;
-    background: rgba(255, 255, 255, 1);
-    opacity: 1;
-    position: absolute;
-    top: 891px;
-    left: 831px;
-    overflow: hidden;
+  width: 45px;
+  height: 45px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 891px;
+  left: 831px;
+  overflow: hidden;
 }
